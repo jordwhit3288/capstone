@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1605977829890.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7882A478",
+    "lastKnownWriteTime" : 7287422520962202146,
+    "last_content_update" : 1605977829890,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "EE54B77",
+        "caption" : "hypo_testing",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=hypo_testing&cache_key=EE54B77",
+        "displayedObservations" : 1796,
+        "environment" : "",
+        "expression" : "hypo_testing",
+        "object" : "hypo_testing",
+        "preview" : 0,
+        "totalObservations" : 1796,
+        "variables" : 15
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
